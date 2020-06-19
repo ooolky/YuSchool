@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T18:41:53.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" version="13.3.0" etag="PjJxNyn6HcpHVewhv5lf" type="github"><diagram id="asHqhbbZzxsciJQ5mU34">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-19T18:43:56.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" etag="v7R5iDzKtr0x4lY-C_EO" version="13.3.0" type="github">
+  <diagram id="asHqhbbZzxsciJQ5mU34" name="第 1 页">
+    <mxGraphModel dx="460" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rFFLZzVDEKtclg4pNli9-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="rFFLZzVDEKtclg4pNli9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="targetPoint" />
+            <mxPoint x="160" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rFFLZzVDEKtclg4pNli9-4" target="rFFLZzVDEKtclg4pNli9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-4" value="输出已删除提示并刷新页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-6" value="禁言" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rFFLZzVDEKtclg4pNli9-8" target="rFFLZzVDEKtclg4pNli9-10">
+          <mxGeometry x="0.4462" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="445" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="380" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-7" value="删除" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rFFLZzVDEKtclg4pNli9-8" target="rFFLZzVDEKtclg4pNli9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-8" value="管理员删除发言&lt;br&gt;或禁言用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rFFLZzVDEKtclg4pNli9-10" target="rFFLZzVDEKtclg4pNli9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rFFLZzVDEKtclg4pNli9-10" value="输出已禁言成功提示并刷新页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
