@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T17:51:02.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" etag="LOYb6YGs0cS9oN83INbB" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T17:54:02.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" etag="2-d-HyTV0-FeJddamKpt" version="13.3.0" type="github">
   <diagram id="3DwJ-WcXgnNUYQezBMGN" name="第 1 页">
-    <mxGraphModel dx="767" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
             <mxPoint x="310" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tp-QKj663xbfoFl7rCUi-109" value="消息提醒" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tp-QKj663xbfoFl7rCUi-109" value="消息接收" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tp-QKj663xbfoFl7rCUi-112" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;" edge="1" parent="1" target="tp-QKj663xbfoFl7rCUi-115">
