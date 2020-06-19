@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T17:21:13.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" etag="RPCG0VuibXN4VWml-yeJ" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T17:33:30.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50" etag="LhBPRVWvHy-LwNDouKgo" version="13.3.0" type="github">
   <diagram id="3DwJ-WcXgnNUYQezBMGN" name="第 1 页">
     <mxGraphModel dx="541" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="tp-QKj663xbfoFl7rCUi-62" value="关注/取消关注&lt;br&gt;用户" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tp-QKj663xbfoFl7rCUi-134" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;dashed=1;" edge="1" parent="1" source="tp-QKj663xbfoFl7rCUi-63" target="tp-QKj663xbfoFl7rCUi-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tp-QKj663xbfoFl7rCUi-63" value="管理已关注&lt;br&gt;用户" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="80" height="40" as="geometry" />
@@ -197,6 +200,14 @@
         </mxCell>
         <mxCell id="tp-QKj663xbfoFl7rCUi-127" value="被关注或取消关注提醒" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tp-QKj663xbfoFl7rCUi-132" value="查看已关注用户列表" style="ellipse;whiteSpace=wrap;html=1;rounded=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tp-QKj663xbfoFl7rCUi-135" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="369.99705882352964" y="340.00470588235333" as="geometry">
+            <mxPoint x="133" y="-52" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
